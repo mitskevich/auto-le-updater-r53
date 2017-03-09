@@ -283,7 +283,3 @@ function isSuperset<T>(thisSet: Set<T>, subset: Set<T>): boolean {
 }
 
 run();
-
-// TODO:
-// * Email reporting about successful attempt.
-// * Email reports should be formatted nicely and include log.

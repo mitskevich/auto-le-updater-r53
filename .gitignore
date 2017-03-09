@@ -1,5 +1,5 @@
 /build/
 /credentials
 /node_modules/
-/storage/
+/storage-*/
 /config.json
